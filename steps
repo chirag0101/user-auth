@@ -1,0 +1,5 @@
+1) npm init -y          //node package manager to initialize npm & -y is yes fir all permissions    => gives package.json that contains  info about our project & the libraries installed.
+
+2)  npm i express body-parser mongoose dotenv           //are the libraries that'll be needed
+
+3) npm install mongodb
